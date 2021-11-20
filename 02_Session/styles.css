@@ -1,3 +1,19 @@
-.p{
+body{
+    background-color: #1A1939;
+    font-family: Geneva;
+}
+
+.paragraphs{
     color: white;
+}
+
+.headers{
+    color: white;
+}
+
+.imagen{
+    width: 500px;
+    height: auto;
+    display: block;
+    margin: auto;
 }
